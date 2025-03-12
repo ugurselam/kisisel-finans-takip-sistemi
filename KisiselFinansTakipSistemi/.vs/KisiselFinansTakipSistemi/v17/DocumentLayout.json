@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\KisiselFinansTakipSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{149DA873-8186-45E8-B90E-F3E3A9B3E2C3}|KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi.csproj|c:\\users\\ugurs\\onedrive\\masa\u00FCst\u00FC\\kisiselfinanstakipsistemi\\kisiselfinanstakipsistemi\\sabitsayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{149DA873-8186-45E8-B90E-F3E3A9B3E2C3}|KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi.csproj|solutionrelative:kisiselfinanstakipsistemi\\sabitsayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{149DA873-8186-45E8-B90E-F3E3A9B3E2C3}|KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi.csproj|c:\\users\\ugurs\\onedrive\\masa\u00FCst\u00FC\\kisiselfinanstakipsistemi\\kisiselfinanstakipsistemi\\sabitsayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{149DA873-8186-45E8-B90E-F3E3A9B3E2C3}|KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi.csproj|solutionrelative:kisiselfinanstakipsistemi\\sabitsayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{149DA873-8186-45E8-B90E-F3E3A9B3E2C3}|KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi.csproj|c:\\users\\ugurs\\onedrive\\masa\u00FCst\u00FC\\kisiselfinanstakipsistemi\\kisiselfinanstakipsistemi\\grafik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{149DA873-8186-45E8-B90E-F3E3A9B3E2C3}|KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi.csproj|solutionrelative:kisiselfinanstakipsistemi\\grafik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 293,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SabitSayfa.cs",
+              "DocumentMoniker": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi\\SabitSayfa.cs",
+              "RelativeDocumentMoniker": "KisiselFinansTakipSistemi\\SabitSayfa.cs",
+              "ToolTip": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi\\SabitSayfa.cs",
+              "RelativeToolTip": "KisiselFinansTakipSistemi\\SabitSayfa.cs",
+              "ViewState": "AgIAAGMBAAAAAAAAAADwvzkBAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T09:14:34.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SabitSayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi\\SabitSayfa.cs",
+              "RelativeDocumentMoniker": "KisiselFinansTakipSistemi\\SabitSayfa.cs",
+              "ToolTip": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi\\SabitSayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KisiselFinansTakipSistemi\\SabitSayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T09:14:31.872Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Grafik.cs",
+              "DocumentMoniker": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi\\Grafik.cs",
+              "RelativeDocumentMoniker": "KisiselFinansTakipSistemi\\Grafik.cs",
+              "ToolTip": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi\\Grafik.cs",
+              "RelativeToolTip": "KisiselFinansTakipSistemi\\Grafik.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwH4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:49:59.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
