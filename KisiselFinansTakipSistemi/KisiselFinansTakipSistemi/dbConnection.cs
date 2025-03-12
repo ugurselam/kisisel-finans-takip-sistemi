@@ -9,7 +9,7 @@ namespace KisiselFinansTakipSistemi
 {
     internal class dbConnection : IDisposable
     {
-        SqlConnection sqlConnection = new SqlConnection("Data Source=UĞUR;Initial Catalog=KisiselFinansTakipSistemi;Integrated Security=True;Trust Server Certificate=True");
+        SqlConnection sqlConnection = new SqlConnection("");
 
         public SqlConnection dbConnect()
         {

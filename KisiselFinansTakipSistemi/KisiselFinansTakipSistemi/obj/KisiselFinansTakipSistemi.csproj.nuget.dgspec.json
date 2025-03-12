@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ugurs\\OneDrive\\Masaüstü\\KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi.csproj": {}
+    "C:\\Users\\ugurs\\OneDrive\\Belgeler\\GitHub\\kisisel-finans-takip-sistemi\\KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ugurs\\OneDrive\\Masaüstü\\KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi.csproj": {
+    "C:\\Users\\ugurs\\OneDrive\\Belgeler\\GitHub\\kisisel-finans-takip-sistemi\\KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ugurs\\OneDrive\\Masaüstü\\KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi.csproj",
+        "projectUniqueName": "C:\\Users\\ugurs\\OneDrive\\Belgeler\\GitHub\\kisisel-finans-takip-sistemi\\KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi.csproj",
         "projectName": "KisiselFinansTakipSistemi",
-        "projectPath": "C:\\Users\\ugurs\\OneDrive\\Masaüstü\\KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi.csproj",
+        "projectPath": "C:\\Users\\ugurs\\OneDrive\\Belgeler\\GitHub\\kisisel-finans-takip-sistemi\\KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi.csproj",
         "packagesPath": "C:\\Users\\ugurs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ugurs\\OneDrive\\Masaüstü\\KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi\\obj\\",
+        "outputPath": "C:\\Users\\ugurs\\OneDrive\\Belgeler\\GitHub\\kisisel-finans-takip-sistemi\\KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

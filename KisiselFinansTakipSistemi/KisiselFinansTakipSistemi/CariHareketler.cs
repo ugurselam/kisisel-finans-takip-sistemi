@@ -92,8 +92,8 @@ namespace KisiselFinansTakipSistemi
             hareketListesi.Add(this.Baslik);
             hareketListesi.Add(this.Aciklama);
             hareketListesi.Add(this.Tutar.ToString());
-            hareketListesi.Add(this.Tip.ToString()); // 0 Bakiye Ekle : 1 Bakkiye Eksilt
-            hareketListesi.Add(this.Sabit.ToString()); // 0 Bakiye Ekle : 1 Bakkiye Eksilt
+            hareketListesi.Add(this.Tip.ToString()); 
+            hareketListesi.Add(this.Sabit.ToString()); 
             hareketListesi.Add(this.Tarih);
             hareketListesi.Add("0"); // Sabit Alindimi
         }

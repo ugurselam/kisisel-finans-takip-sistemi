@@ -124,13 +124,6 @@ namespace KisiselFinansTakipSistemi
                 Title = ayarlar.dil == "Türkçe" ? "Gelir/Gider" : ayarlar.dil == "English" ? "Expense/Income" : "Geht/Einkommen",
             });
 
-            //plotModel.Axes.Add(new LinearAxis
-            //{
-            //    Key = ayarlar.dil == "Türkçe" ? "Gider" : ayarlar.dil == "English" ? "Expense" : "Geht",
-            //    Position = AxisPosition.Right,
-            //    Title = ayarlar.dil == "Türkçe" ? "Gider" : ayarlar.dil == "English" ? "Expense" : "Geht",
-            //});
-
             if(grafikTuru == 0)
             {
                 plotModel.Series.Add(gelirVerileri(cariHareketler));

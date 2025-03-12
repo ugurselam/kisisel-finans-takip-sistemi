@@ -34,6 +34,7 @@ namespace KisiselFinansTakipSistemi
             ayarlarSayfasi = new();
         }
 
+        #region Kullanýcý Arayüzü
         public void kullaniciArayuzu()
         {
             // Uygulama tam ekran yapýldýðýnda uygun olarak içeriði konumlandýrýyoruz.
@@ -272,6 +273,8 @@ namespace KisiselFinansTakipSistemi
                 }
             }
         }
+        #endregion
+
 
         private void cariIslemlerButton_Click(object sender, EventArgs e)
         {
@@ -291,7 +294,6 @@ namespace KisiselFinansTakipSistemi
             this.Text = "Ana Sayfa";
             icerikPanel.Controls.Clear();
             anaSayfa.Dock = DockStyle.Fill;
-            //anaSayfa.bakiye = bakiye;
             anaSayfa.verileriYenile();
             icerikPanel.Controls.Add(anaSayfa);
             kullaniciArayuzu();
@@ -380,8 +382,6 @@ namespace KisiselFinansTakipSistemi
                 ayarlarGuncelle.ExecuteNonQuery();
             }
         }
-
-
 
         private void SabitSayfa_Resize(object sender, EventArgs e)
         {

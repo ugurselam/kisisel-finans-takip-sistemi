@@ -38,11 +38,11 @@ namespace KisiselFinansTakipSistemi
                 (7, 751) => new Point(14, 38),
                 (1, 1753) => new Point(69, 52),
                 (2, 1753) => new Point(62, 52),
-                (3, 1753) => new Point(56, 52),
-                (4, 1753) => new Point(51, 52),
-                (5, 1753) => new Point(46, 52),
-                (6, 1753) => new Point(40, 52),
-                (7, 1753) => new Point(36, 52),
+                (3, 1753) => new Point(55, 52),
+                (4, 1753) => new Point(49, 52),
+                (5, 1753) => new Point(43, 52),
+                (6, 1753) => new Point(37, 52),
+                (7, 1753) => new Point(31, 52),
             };
 
             bakiyeLabel.Location = konum;

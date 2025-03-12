@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "exaGpk3Xafs=",
+  "dgSpecHash": "JiWJhPaaUjg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ugurs\\OneDrive\\Masaüstü\\KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi.csproj",
+  "projectFilePath": "C:\\Users\\ugurs\\OneDrive\\Belgeler\\GitHub\\kisisel-finans-takip-sistemi\\KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi\\KisiselFinansTakipSistemi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ugurs\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ugurs\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

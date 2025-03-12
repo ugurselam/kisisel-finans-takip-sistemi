@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KisiselFinansTakipSistemi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9109b7f733829cf5d48f2eed62a62b3d42aebe2a")]
 [assembly: System.Reflection.AssemblyProductAttribute("KisiselFinansTakipSistemi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KisiselFinansTakipSistemi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
